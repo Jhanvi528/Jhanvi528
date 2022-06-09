@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhanvi528" alt="jhanvi528" /></a> </p>
 
-- 📫 How to reach me **jhanvigarg528@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zfs74ZBS-0blzvgPPiKmU94foMTfwu3J/view?usp=sharing](https://drive.google.com/file/d/1zfs74ZBS-0blzvgPPiKmU94foMTfwu3J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
